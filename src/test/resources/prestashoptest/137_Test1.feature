@@ -1,5 +1,5 @@
 # language: en
-Fonctionnalité: Test1
+Feature: Test1
   
   Scenario: Un utilisateur tente de retirer plus d'argent qu'il n'en a sur son compte
     Given Vsevolod possède une carte de débit basique valide  
